@@ -8,7 +8,6 @@ What is this?
 This script performs the following functions:
 
 	1) Tracks user keystroke input and saves that input to local file (file path defined by user).  The local file can also be uploaded to DropBox every X seconds.
-	
 	2) Creates a Windows registry runkey, executing this script on startup.
 	
 ------
