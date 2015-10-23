@@ -16,8 +16,10 @@ Usage
 ThreatFix_Simple_Keylogger.py [Local|DropBox] [Filepath] [Optional:Persistent]
 
 -Local: Store the keystrokes in a text file at a specified path. [Filepath\ThreatFix_Keylogger_Log.txt]
+
 -DropBox: Sends the keystrokes to a text file at a specified path and uploads the file to DropBox every "n" seconds.
 	Note: Must provide DropBox API key
+	
 -Persistent:[Optional]This will add the keylogger to the Windows registry runkeys.
 
 --------------
