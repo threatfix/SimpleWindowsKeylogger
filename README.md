@@ -1,9 +1,6 @@
 -----------------------------------------------------
 ThreatFix Simple Keylogger
 -----------------------------------------------------
------------------------------------------------------
-ThreatFix.com
------------------------------------------------------
 
 --------------
 What is this?
@@ -36,3 +33,7 @@ The following are required for this keylogger to function:
 ThreatFix is not responsible for any malicious use.  Be good pls.
 Feel free to manipulate and improve on this. Send us your updates and we'll post them.
 Original concept by: Ajin Abraham
+
+-----------------------------------------------------
+ThreatFix.com
+-----------------------------------------------------
