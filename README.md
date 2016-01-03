@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="http://i.imgur.com/eGJF0AY.png"></p>
+<img src="http://i.imgur.com/lUBGmV8.png"></p>
 
 ### About
 This script performs the following functions:
